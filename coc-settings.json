@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.completion.autoimport.enable": true,
+    "rust-analyzer.typing.autoClosingAngleBrackets.enable": true
+}

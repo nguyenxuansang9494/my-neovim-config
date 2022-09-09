@@ -1,7 +1,7 @@
-source $HOME/.config/nvim/configs/vim-plug.vim
-source $HOME/.config/nvim/configs/basic-config.vim
+source $HOME/.config/nvim/configs/plugins.vim
+source $HOME/.config/nvim/configs/configs.vim
 
 " Config plugins
-source $HOME/.config/nvim/configs/plugins-config/nerdtree.vim
-source $HOME/.config/nvim/configs/plugins-config/coc.vim
-source $HOME/.config/nvim/configs/plugins-config/vim-airline.vim
+source $HOME/.config/nvim/configs/plugins/nerdtree.vim
+source $HOME/.config/nvim/configs/plugins/coc.vim
+source $HOME/.config/nvim/configs/plugins/vim-airline.vim

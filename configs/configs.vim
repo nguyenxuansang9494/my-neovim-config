@@ -16,7 +16,7 @@ nnoremap D "_D
 nnoremap d "_d
 
 " easymotion
-map <Leader> <Plug>(easymotion-prefix)
+map <Leader><Leader> <Plug>(easymotion-prefix)
 
 " Tab
 map <C-l> :tabnext<CR>

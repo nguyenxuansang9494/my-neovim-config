@@ -14,6 +14,9 @@ nnoremap dd "_dd
 vnoremap d "_d
 nnoremap D "_D
 nnoremap d "_d
+nnoremap zz z<CR>
+nnoremap Z z-
+nnoremap U <C-r>
 
 " easymotion
 map <Leader><Leader> <Plug>(easymotion-prefix)

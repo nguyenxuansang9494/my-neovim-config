@@ -1,0 +1,25 @@
+set visualbell
+set clipboard+=unnamed
+set ts=4
+set sts=4
+set sw=4
+set smartindent
+
+" Easymotion config
+Plug 'easymotion/vim-easymotion'
+let mapleader="q"
+set easymotion map <Leader> <Plug>(easymotion)
+
+" Mapping 
+nnoremap dd "_dd
+vnoremap d "_d
+nnoremap D "_D
+nnoremap d "_d
+nnoremap zz z<CR>
+nnoremap Z z-
+nnoremap U <C-r>
+inoremap jjj <Esc>
+nnoremap cc dd
+vnoremap c d
+nnoremap C D
+nnoremap c d

@@ -17,7 +17,7 @@ nnoremap d "_d
 nnoremap zz z<CR>
 nnoremap Z z-
 nnoremap U <C-r>
-inoremap jjj <Esc>
+inoremap jj <Esc>
 nnoremap cc dd
 vnoremap c d
 nnoremap C D

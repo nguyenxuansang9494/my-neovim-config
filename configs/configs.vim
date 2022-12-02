@@ -2,7 +2,7 @@
 set guicursor=
 set nu
 set relativenumber
-set clipboard+=unnamed
+set clipboard+=unnamedplus
 let mapleader="q"
 set tabstop=4
 set expandtab
